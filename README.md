@@ -1,4 +1,4 @@
-# Hospitalization_predcition
+# Hospitalization_prediction
 
 
 This repository contains code to predict incident psychiatric hospitalization (bipolar/manic disorders, depression, schizophrenia, psychoses/delusional disorders), using a 1-year study window.
