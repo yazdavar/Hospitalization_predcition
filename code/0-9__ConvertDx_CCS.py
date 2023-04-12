@@ -1,3 +1,9 @@
+'''
+File to connect to SQL data based and read relvant table
+Author: Amir Yazdavar
+'''
+
+
 import pandas as pd
 import datetime as dt
 

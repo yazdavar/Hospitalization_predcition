@@ -1,3 +1,8 @@
+'''
+File to connect to SQL data based and read relvant table
+Author: Amir Yazdavar
+'''
+
 import io
 import sys
 sys.path.append("/Users/amir/code/joe/OMOP_Hospital_Predict")
