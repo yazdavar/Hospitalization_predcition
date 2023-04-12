@@ -13,3 +13,6 @@ Data Source: CDRN [OMOP]
 Potential Controls: 1,000,000 pts with no hx of psychiatric Dx or antidepressant Rx
 
  ![INSERT ICD_codes SCREENSHOT HERE](docs/ICD_codes.png)  
+ ![INSERT Control_identification SCREENSHOT HERE](docs/Control_identification.png)  
+ ![INSERT Case_identification SCREENSHOT HERE](docs/Case_identification.png)  
+ ![INSERT Signals_identification SCREENSHOT HERE](docs/Signals_identification.png)  
